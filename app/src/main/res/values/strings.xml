@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+
+    <string name="label_egg_temp">Temperatura jaj:</string>
+    <string name="label_egg_doneness">Ścięcie białka / żółtka:</string>
+    <string name="label_egg_size">Wielkość jaj:</string>
+    <string name="label_cooking_time">Czas gotowania:</string>
+    <string name="label_countdown">Trwa odliczanie&#8230;</string>
+    <string name="label_time_left">Pozostało</string>
+    <string name="label_countdown_end">Zakończono odliczanie</string>
+    <string name="label_countdown_end_short">0m 00s</string>
+    <string name="label_countdown_interrupt">Odliczanie zostanie wstrzymane! Naciśnij WSTECZ aby potwierdzić</string>
+
+    <string name="action_start">Start</string>
+
+    <string-array name="egg_size">
+        <item>S (&lt; 53g)</item>
+        <item>M (53 &#8211; 63g)</item>
+        <item>L (63 &#8211; 73g)</item>
+        <item>XL (&gt; 73g)</item>
+    </string-array>
+
+    <string-array name="egg_doneness">
+        <item>zaczyna się ścinać / płynne</item>
+        <item>częściowo ścięte (płynne) / zaczyna się ścinać</item>
+        <item>w większości ścięte (płynne) / delikatnie ścięte</item>
+        <item>ścięte / delikatnie ścięte, tekstura wosku</item>
+        <item>ścięte / ścięte</item>
+        <item>mocno ścięte / kruche</item>
+    </string-array>
+
+    <string-array name="egg_temp">
+        <item>Z lodówki (4&#176;C)</item>
+        <item>Temp. pokojowa (20&#176;C)</item>
+    </string-array>
+    <string name="title_activity_timer">Timer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
